@@ -1,13 +1,7 @@
 ## Hi Stranger🧸
 
 ### 🐈 Here's A Lot About Me
-👩🏻‍💻 I'm Victoria Tran, a data analyst in tech.
-
-My tech stack:
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-003B57?logo=database&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)
-![Microsoft Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black)
+👩🏻‍💻 I'm Victoria Tran, a data analyst in tech who uses: ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-003B57?logo=database&logoColor=white) ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white) ![Microsoft Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black) to drive data-driven decisions.
 
 🦦 Outside of work, I volunteer at cat rescues while developing my business knowledge.
 
